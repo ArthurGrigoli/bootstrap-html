@@ -4,3 +4,9 @@
     object-fit: cover;
     margin: auto;
 }
+
+.mb-2{
+    height: 100px;
+    width: 25%;
+    border-radius: 50%;
+}
