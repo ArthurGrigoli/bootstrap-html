@@ -1,0 +1,6 @@
+.carousel-inner img {
+    max-width: 90%;
+    max-height: 50rem;
+    object-fit: cover;
+    margin: auto;
+}
